@@ -1,0 +1,11 @@
+{
+  "user": {
+    "name": "Vasya",
+    "age": 25,
+    "hobby": "Race"
+  },
+  "posts": {
+    "topic": "fetch",
+    "text": "I love fetch"
+  }
+}
